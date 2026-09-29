@@ -1,0 +1,28 @@
+{
+    "platform": "win32",
+    "version": "10.0.28000",
+    "release": "11",
+    "virtual_memory": {
+        "total": 16794329088,
+        "available": 8805265408,
+        "percent": 47.6,
+        "used": 7989063680,
+        "free": 8805265408
+    },
+    "current_directory": "d:\\Documents\\учеба\\ТП\\лабораторные",
+    "file_bytes": "b'test if laba.py'",
+    "listdir": [
+        "lab1.py",
+        "output.json",
+        "result.json",
+        "test of laba.py"
+    ],
+    "stat": "os.stat_result(st_mode=33206, st_ino=562949953424194, st_dev=12016250309036462059, st_nlink=1, st_uid=0, st_gid=0, st_size=890, st_atime=1790715209, st_mtime=1790715208, st_ctime=1790711534)",
+    "walk": {
+        "текущая папка:": "d:\\Documents\\учеба\\ТП\\практика",
+        "подпапки": [],
+        "файлы": [
+            "2less.py"
+        ]
+    }
+}
